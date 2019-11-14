@@ -47,7 +47,7 @@ const CriaComentarios = props => {
     return (
         <div className="comentario" >
 
-            <img className="comentario__perfil" src={props.img} ></img>
+                <img className="comentario__perfil" src={props.img} ></img>
 
             <Comentario
                     nome= {props.nome}

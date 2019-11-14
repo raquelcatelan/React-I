@@ -12,15 +12,15 @@ function App() {
     <div className="App">
       <CriaComentarios
          img={Cat1}
-        nome="Bichano"
-        subtitulo="QUE GATO FOFO"
-        comentario="ESSE GATO É MUITO FOFO MUITO LINDO EU AMO MUITO"
+        nome="Godofredo"
+        subtitulo="socorro que video ruim"
+        comentario="faz melhor "
       />
       <CriaComentarios
         img={Cat2}
-       nome="Gatuxo"
-       subtitulo="QUE GATO lindo"
-       comentario="  oh bicnhinho..."
+       nome="Vitor "
+       subtitulo="QUE VIDEOOOOO MASSAAAAA"
+       comentario="TU É ZIKA MEU"
       
       />
     </div>
